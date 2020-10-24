@@ -1,6 +1,6 @@
-# Certi-gen :hot_face:
+# Certigen :hot_face:
 
-A CLI tool to generate certificates which takes data from a spreadsheet and saves the certi as a pdf
+A python script to generate merit certificates which takes data from a spreadsheet and saves the certi as a pdf
 <br>
 
 # Certificate design (outcome)
@@ -21,3 +21,6 @@ A CLI tool to generate certificates which takes data from a spreadsheet and save
 
 - Let's say a person - Ross Geller, has not achieved any position then its corresponding _Position_ column should have the word "participation" as the value (as can be seen in the above example.)
 - The data entry should start from the first cell of the spreadsheet i.e A1.
+
+# Usage
+Primarily built for Amity International School, Gurgaon but feel free to use it for personal purposes as well. :smile:

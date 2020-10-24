@@ -1,4 +1,4 @@
-# Certigen :hot_face:
+# Certifyed 📄
 
 A python script to generate merit certificates which takes data from a spreadsheet and saves the certi as a pdf
 <br>

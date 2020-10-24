@@ -137,6 +137,7 @@ while True:
     a = int(input('\nWhat do you want to do now?'
                   '\n1 -> merit certificates generate'
                   '\n2 -> convert merit certis PPT to PDF'
+                  '\n3 -> exit the program'
                   '\n >>> '))
 
     if a == 1:
@@ -148,4 +149,7 @@ while True:
         convertMeritToPDF()
         print('\nconverted merit ppts to pdf bb')
 
+    elif a == 3:
+        print("Thanks for using certigen. Hope you had a great experience!")
+        break
 # Add requirements.txt

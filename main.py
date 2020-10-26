@@ -18,7 +18,7 @@ def meritCertis(certificate_name, spreadsheetDirectory, participantNumber):
     lst = []
     posDict = {1: '1st', 2: '2nd', 3: '3rd'}
 
-    for i in range(1, participantNumber+2):
+    for i in range(1, participantNumber+1):
         position = sheet.cell_value(i, 3)
         if type(position) != float:
             if position.lower() == 'participation':

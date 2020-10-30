@@ -4,10 +4,6 @@ A python script to generate merit certificates which takes data from a spreadshe
 <br>
 
 # Certificate design (outcome)
-
-**Certificate of Merit**
-<br>
-<br>
 ![merit-eg](https://user-images.githubusercontent.com/44428198/83947594-9aad4080-a835-11ea-9be3-aca850cb0d36.png)
 <br>
 

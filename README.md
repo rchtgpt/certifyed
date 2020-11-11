@@ -1,7 +1,6 @@
-# Certifyed 📄
+![certifyed](https://socialify.git.ci/dotrachit/certifyed/image?language=1&owner=1&stargazers=1&theme=Light)
 
-A python script to generate merit certificates which takes data from a spreadsheet and saves the certi as a pdf
-<br>
+A python script to generate merit certificates which takes data from a spreadsheet and saves the certi as a PDF
 
 # Certificate design (outcome)
 ![merit-eg](https://user-images.githubusercontent.com/44428198/83947594-9aad4080-a835-11ea-9be3-aca850cb0d36.png)
